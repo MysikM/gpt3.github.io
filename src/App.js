@@ -2,7 +2,7 @@ import React from 'react';
 
 const App = () => {
     return (
-        <div>Get start!</div>
+        <div>Get start work!</div>
     )
 }
 
